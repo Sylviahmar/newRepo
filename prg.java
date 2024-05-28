@@ -3,7 +3,8 @@ package newdr
 public class prg {
    public static void main(String[] args) 
 {
-    int a=10;
+    idc
+       int a=10;
     int b=11;
     int c=a+b;
       int d=a*c;
